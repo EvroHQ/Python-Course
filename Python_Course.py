@@ -13,3 +13,5 @@ if nombre.isdigit():
         print("Bravo! Vous avez trouvé le nombre mystère!")
 else:
     print("SVP! Rentrez un nombre valide!")
+else:
+    print("TG")
