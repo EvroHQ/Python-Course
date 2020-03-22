@@ -3,7 +3,7 @@ class Voiture:
         self.essence = 100
 
     def afficher_reservoir(self):
-        print(f"La voiture contient {self.essence} d'essence")
+        print(f"La voiture contient {self.essence}L d'essence")
 
     def roule(self, km):
         if self.essence <= 0:
